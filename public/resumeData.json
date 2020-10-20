@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Ravi Kumar",
+    "occupation":"Java Developer",
+    "description":"I have total 4.10 years of experience in IT.  2 years of experience in R&D domain as java developer. 2.10 years of experience in Telecom domain as a Comptel developer and Java develper. ",
+    "image":"profilepic.jpg",
+    "bio":"I am a currently working in Infosys, I am working on Java and Nokia Tools like InstantLink,Service Catalog and NEI",
+    "contactmessage":"get in contact with me.",
+    "email": "writte2ravi@gmail.com",
+    "phone": "+91-78372-18638",
+    "address":{
+      "street":"Megapolis Sunway,Hinjewadi phase 3",
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411057"
+    },
+    "website": "https://ravikumar-resume.herokuapp.com/",
+    "resumedownload":"https://drive.google.com/drive/folders/1JyqXlaOAPLuUaqbJexrLPnEiOOnd-Y3n?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/Writte2ravigma1",
+        "className":"fa fa-twitter"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ravi-kumar-09292411b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/decentravik?r=nametag",
+        "className":"fa fa-instagram"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below are the skills i have worked on",
+    "education":[
+      {
+        "school":"Lovely Professional University",
+        "degree":"B.Tech(CSE)",
+        "graduated":"April 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Cognizant",
+        "title":"Programmer Analyst",
+        "years":"December 2015 - February 2018",
+        "description":"I have worked as a Java developer and MySQL developer , i Have Developed code for Automation of some task to using Autoit scripting, i have done some small level of POCs Using Elastic search reading data from Excel and show it in form of Graphs."
+      },
+      {
+        "company":"Infosys",
+        "title":"Technical Analyst",
+        "years":"February 2018 - Present",
+        "description":"I am working on Java and Nokia Tools like InstantLink,Service Catalog and NEI"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"Springa boot",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"hibernate",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Task Manager",
+        "category":"It manages the todo list",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://task-tracker-gui.herokuapp.com/login"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
