@@ -101,13 +101,13 @@
       {
         "title":"Task Manager",
         "category":"It manages the todo list",
-        "image":"canadian-wanderlust.jpg",
+        "image":"TaskManager.jpg",
         "url":"https://task-tracker-gui.herokuapp.com/login"
       },
       {
         "title":"My Resume",
         "category":"It is my resume",
-        "image":"myresume.jpg",
+        "image":"resume-website.jpg",
         "url":"https://ravikumar-resume.herokuapp.com/"
       }
     ]
